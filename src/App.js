@@ -64,6 +64,7 @@ class App extends Component {
               pushCard={this.pushCard}
               shuffle={this.shuffle} />
           })}
+          <p className="credit">The images are from the amazing illustrator <a href="http://jerryliustudio.tumblr.com/" target="_blank">Jerry Liu</a>.</p>
         </Container>
       </div>
     );

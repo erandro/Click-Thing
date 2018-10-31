@@ -26,6 +26,14 @@
     background-color: rgb(188,195,187);
 }
 
+.lead {
+    text-align: center;
+}
+
+.display-4 {
+    text-align: center;
+}
+
 @media (max-width: 576px) {
     
     .jumbotron {

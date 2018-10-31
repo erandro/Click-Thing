@@ -26,11 +26,30 @@ body {
   color: #61dafb;
 }
 
+.credit {
+  font-size: 3vw;
+  color: #282c34;
+  font-weight: 100;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+p.credit > a {
+  color: #282c34;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 576px) {
+    
+  .credit {
+    font-size: 4vw;
   }
 }
