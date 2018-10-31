@@ -1,6 +1,6 @@
 .card {
-    width: 200px;
-    height: 200px;
+    width: 18vw;
+    height: 18vw;
     margin: 8px 5px 8px 5px;
     border-color: rgb(159, 182, 171);
 }
@@ -32,4 +32,14 @@
   40%, 60% {
     transform: translate3d(4px, 0, 0);
   }
+}
+
+@media (max-width: 576px) {
+    
+  .card {
+    width: 21vw;
+    height: 21vw;
+    margin: 4px 5px 4px 5px;
+  }
+  
 }

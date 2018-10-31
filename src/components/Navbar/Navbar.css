@@ -25,3 +25,20 @@
 .jumbotron {
     background-color: rgb(188,195,187);
 }
+
+@media (max-width: 576px) {
+    
+    .jumbotron {
+        padding: 0rem 0rem;
+    }
+
+    .display-4 {
+        font-size: 8vw;
+        font-weight: 400;
+    }
+    .lead {
+        font-size: 5vw;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+}
