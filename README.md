@@ -17,8 +17,8 @@ This is the project structure:
 
 ```
 Click-Thing/
-  click-thing/
-    README.md
+  README.md
+  click-thing/   
     node_modules/
     yarn.lock
     package.json
