@@ -2,7 +2,7 @@
 
 This is a Web-Clicking game using React. The images are from the amazing illustrator [Jerry Liu](http://jerryliustudio.tumblr.com/).
 
-<img src="./public/picweb.jpg">
+<img src="./click-thing/public/picweb.jpg">
 
 ## Table of Contents
 
