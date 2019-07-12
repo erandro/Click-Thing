@@ -16,34 +16,35 @@ This is a Web-Clicking game using React. The images are from the amazing illustr
 This is the project structure:
 
 ```
-Clicky-Thingy/
-  README.md
-  node_modules/
-  yarn.lock
-  package.json
-  public/
-    favicon.ico
-    index.html
-    favicon.ico
-  src/
-    App.css
-    App.js
-    images.json
-    index.css
-    index.js
-    components/
-      Card/
-        Card.css
-        Card.js
-        index.js
-      Container/
-        Container.css
-        Container.js
-        index.js
-      Navbar/
-        index.js
-        Navbar.css
-        Navbar.js
+Click-Thing/
+  click-thing/
+    README.md
+    node_modules/
+    yarn.lock
+    package.json
+    public/
+      favicon.ico
+      index.html
+      favicon.ico
+    src/
+      App.css
+      App.js
+      images.json
+      index.css
+      index.js
+      components/
+        Card/
+          Card.css
+          Card.js
+          index.js
+        Container/
+          Container.css
+          Container.js
+          index.js
+        Navbar/
+          index.js
+          Navbar.css
+          Navbar.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
